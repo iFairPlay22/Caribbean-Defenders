@@ -1,0 +1,1580 @@
+﻿Log file open, 03/22/22 13:13:17
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ProjectESIEE_BOUQUET
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.365611
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) RX Vega 10 Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.22-12.13.18:469][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.22-12.13.18:469][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.22-12.13.18:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Engine.ini]
+[2022.03.22-12.13.18:469][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.22-12.13.18:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Engine.ini]
+[2022.03.22-12.13.18:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Engine.ini]
+[2022.03.22-12.13.18:469][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.22-12.13.18:469][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.22-12.13.18:469][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.22-12.13.18:469][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Engine.ini]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.22-12.13.18:470][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Engine.ini]
+[2022.03.22-12.13.18:470][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Engine.ini]
+[2022.03.22-12.13.18:475][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.22-12.13.18:476][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.22-12.13.18:477][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.22-12.13.18:478][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.22-12.13.18:478][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.22-12.13.18:478][  0]LogHAL: Display: Platform has ~ 6 GB [6387523584 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.22-12.13.18:478][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.22-12.13.18:478][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.22-12.13.18:478][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.22-12.13.18:479][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.22-12.13.18:480][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.22-12.13.18:480][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.22-12.13.18:480][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.22-12.13.18:480][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Engine.ini]
+[2022.03.22-12.13.18:480][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Config/Windows/Editor.ini]
+[2022.03.22-12.13.18:480][  0]LogInit: Computer: LAPTOP-FU6UJLOS
+[2022.03.22-12.13.18:480][  0]LogInit: User: david
+[2022.03.22-12.13.18:480][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.03.22-12.13.18:480][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.22-12.13.18:480][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2022.03.22-12.13.18:480][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.22-12.13.18:480][  0]LogMemory: Process Physical Memory: 135.15 MB used, 135.15 MB peak
+[2022.03.22-12.13.18:480][  0]LogMemory: Process Virtual Memory: 116.69 MB used, 116.69 MB peak
+[2022.03.22-12.13.18:480][  0]LogMemory: Physical Memory: 5236.13 MB used,  855.48 MB free, 6091.62 MB total
+[2022.03.22-12.13.18:480][  0]LogMemory: Virtual Memory: 134207200.00 MB used,  10526.25 MB free, 134217728.00 MB total
+[2022.03.22-12.13.18:495][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.22-12.13.18:572][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.22-12.13.18:573][  0]LogInit: Using OS detected language (fr-FR).
+[2022.03.22-12.13.18:573][  0]LogInit: Using OS detected locale (fr-FR).
+[2022.03.22-12.13.18:578][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2022.03.22-12.13.18:579][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2022.03.22-12.13.18:579][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2022.03.22-12.13.18:579][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2022.03.22-12.13.18:579][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2022.03.22-12.13.18:579][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2022.03.22-12.13.18:579][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2022.03.22-12.13.18:579][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2022.03.22-12.13.18:581][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.22-12.13.18:591][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.22-12.13.18:612][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.22-12.13.18:612][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.22-12.13.18:881][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.22-12.13.18:881][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.22-12.13.18:881][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.22-12.13.18:881][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.22-12.13.18:927][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) RX Vega 10 Graphics' (Feature Level 11_0)
+[2022.03.22-12.13.18:927][  0]LogD3D11RHI:       2034/0/3045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.03.22-12.13.18:931][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.22-12.13.18:931][  0]LogD3D11RHI:       0/0/3045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.22-12.13.18:931][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.03.22-12.13.18:942][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.22-12.13.18:942][  0]LogD3D11RHI:     GPU DeviceId: 0x15d8 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.22-12.13.18:942][  0]LogWindows: EnumDisplayDevices:
+[2022.03.22-12.13.18:942][  0]LogWindows:    0. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:1 D:1)
+[2022.03.22-12.13.18:943][  0]LogWindows:    1. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2022.03.22-12.13.18:943][  0]LogWindows:    2. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2022.03.22-12.13.18:943][  0]LogWindows:    3. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2022.03.22-12.13.18:943][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.03.22-12.13.18:943][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) RX Vega 10 Graphics
+[2022.03.22-12.13.18:943][  0]LogD3D11RHI:   Driver Version: Adrenalin 20.10.44.05 (internal:27.20.11044.5003, unified:27.20.11044.5003)
+[2022.03.22-12.13.18:943][  0]LogD3D11RHI:      Driver Date: 11-19-2020
+[2022.03.22-12.13.18:944][  0]LogRHI: Texture pool is 3200 MB (70% of 4572 MB)
+[2022.03.22-12.13.19:010][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.22-12.13.19:010][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.22-12.13.19:010][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.22-12.13.19:030][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2022.03.22-12.13.19:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.22-12.13.19:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.22-12.13.19:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.22-12.13.19:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.22-12.13.19:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.22-12.13.19:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.22-12.13.19:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.22-12.13.19:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.22-12.13.19:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.22-12.13.19:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.22-12.13.19:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.22-12.13.19:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.22-12.13.19:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.22-12.13.19:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.22-12.13.19:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.22-12.13.19:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.22-12.13.19:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.22-12.13.19:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.22-12.13.19:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.22-12.13.19:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.22-12.13.19:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.22-12.13.19:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.22-12.13.19:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.22-12.13.19:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.22-12.13.19:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.22-12.13.19:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.22-12.13.19:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.22-12.13.19:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.22-12.13.19:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.22-12.13.20:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.22-12.13.20:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.22-12.13.20:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.22-12.13.20:062][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.22-12.13.20:097][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.22-12.13.20:312][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.22-12.13.20:312][  0]LogShaderCompilers: Guid format shader working directory is -68 characters bigger than the processId version (../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Intermediate/Shaders/WorkingDirectory/20456/).
+[2022.03.22-12.13.20:312][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/david/AppData/Local/Temp/UnrealShaderWorkingDir/D5022E7048E5AB8E89A5E6896ABABB17/'.
+[2022.03.22-12.13.20:312][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.22-12.13.20:312][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.22-12.13.21:577][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.22-12.13.21:669][  0]LogDerivedDataCache: Loaded boot cache 0.09s 77MB C:/Users/david/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.22-12.13.21:669][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/david/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.03.22-12.13.21:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.22-12.13.21:670][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.22-12.13.21:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.22-12.13.21:670][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.22-12.13.21:689][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.22-12.13.21:689][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.22-12.13.21:689][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.22-12.13.21:709][  0]LogDerivedDataCache: Speed tests for C:/Users/david/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.03.22-12.13.21:709][  0]LogDerivedDataCache: Display: Performance to C:/Users/david/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=514.92MBs, RandomWriteSpeed=52.40MBs. Assigned SpeedClass 'Local'
+[2022.03.22-12.13.21:710][  0]LogDerivedDataCache: Using Local data cache path C:/Users/david/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.22-12.13.21:711][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.22-12.13.21:711][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.22-12.13.21:792][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.22-12.13.21:793][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.22-12.13.21:833][  0]LogAssetRegistry: FAssetRegistry took 0.0045 seconds to start up
+[2022.03.22-12.13.22:328][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.22-12.13.22:328][  0]LogInit: Active device profile: [00000278F7125D00][00000278F8EF9C40 49] Windows
+[2022.03.22-12.13.22:328][  0]LogInit: Profiles: [00000278F7125D00][00000278F8EF9C40 49] Windows, [00000278F713BA00][00000278F8F00100 49] WindowsNoEditor, [00000278F7127500][00000278F8F04280 49] WindowsServer, [00000278F7138C00][00000278F8F08400 49] WindowsClient, [00000278F7124E00][00000278F8F0C580 49] IOS, [00000278F7138900][00000278F8F32700 49] iPadAir, [00000278F7126C00][00000278F8F48880 49] iPadAir2, [00000278F703F200][00000278F8F50B40 49] IPadPro, [00000278F703F300][00000278F8F4CB80 49] iPadAir3, [00000278F7125400][00000278F8F54D00 49] iPadAir4, [00000278F703E800][00000278F8F58E80 49] iPadMini2, [00000278F7127100][00000278F8F5D000 49] iPadMini3, [00000278F703D500][00000278F8F61180 49] iPadMini4, [00000278F7125000][00000278F8F65300 49] iPadMini5, [00000278F708AB00][00000278F8F6D5C0 49] iPhone6, [00000278F708AC00][00000278F8F69600 49] iPodTouch6, [00000278F703FA00][00000278F8F71840 49] iPhone7, [00000278F703F800][00000278F8EFD880 49] iPodTouch7, [00000278F708A800][00000278F8F759C0 49] iPhone5S, [00000278F703E400][00000278F8F7DB40 49] iPhone6Plus, [00000278F7089400][00000278F8F81CC0 49] iPhone6S, [00000278F703C600][00000278F8F84180 49] iPhone6SPlus, [00000278F708A900][00000278F8F88300 49] iPhone7Plus, [00000278F703F500][00000278F8F8C480 49] iPhoneSE, [00000278F708B000][00000278F8FA0600 49] iPhone8, [00000278F703FE00][00000278F8FA4780 49] iPhone8Plus, [00000278F7089F00][00000278F8FA8900 49] iPhoneX, [00000278F703DF00][00000278F8FACA80 49] iPhoneXS, [00000278F7088400][00000278F8FB0C00 49] iPhoneXSMax, [00000278F703F000][00000278F8FB4D80 49] iPhoneXR, [00000278F7089100][00000278F8FB8F00 49] iPhone11, [00000278F703DA00][00000278F8FBD080 49] iPhone11Pro, [00000278F708B600][00000278F8FC1200 49] iPhone11ProMax, [00000278F703EB00][00000278F8FC5380 49] iPhoneSE2, [00000278F708B800][00000278F8FC9500 49] iPhone12Mini, [00000278F703E900][00000278F8FCD680 49] iPhone12, [00000278F7089C00][00000278F8F797C0 49] iPhone12Pro, [00000278F703E700][00000278F8FD1900 49] iPhone12ProMax, [00000278F7088C00][00000278F8FD5A40 49] iPadPro105, [00000278F703E100][00000278F8FD9B80 49] iPadPro129, [00000278F703D600][00000278F8FE1D00 49] iPadPro97, [00000278F7139A00][00000278F8FE41C0 49] iPadPro2_129, [00000278F703C900][00000278F8FE8340 49] iPad5, [00000278F713BB00][00000278F8FEC4C0 49] iPad6, [00000278F703DE00][00000278F8FF0640 49] iPad7, [00000278F713B300][00000278F8FF47C0 49] iPad8, [00000278F703D400][00000278F8FF8940 49] iPadPro11, [00000278F713B400][00000278F901CAC0 49] iPadPro2_11, [00000278F713BF00][00000278F9040C40 49] iPadPro3_129, [00000278F708B900][00000278F9044DC0 49] iPadPro4_129, [00000278F7139900][00000278F9048F40 49] AppleTV, [00000278F708BD00][00000278F90550C0 49] AppleTV4K, [00000278F7138E00][00000278F9059240 49] TVOS, [00000278F708B500][00000278F905D3C0 49] Mac, [00000278F713AF00][00000278F9061540 49] MacClient, [00000278F7089200][00000278F90656C0 49] MacNoEditor, [00000278F703F900][00000278F8FDD800 49] MacServer, [00000278F708A300][00000278F9069940 49] Linux, [00000278F703C400][00000278F906DA80 49] LinuxAArch64, [00000278F7088D00][00000278F9071BC0 49] LinuxNoEditor, [00000278F703C100][00000278F9079D40 49] LinuxAArch64NoEditor, [00000278F708BF00][00000278F907C200 49] LinuxClient, [00000278F703F100][00000278F9080380 49] LinuxAArch64Client, [00000278F7089700][00000278F9084500 49] LinuxServer, [00000278F703FC00][00000278F9088680 49] LinuxAArch64Server, [00000278F708A100][00000278F9092800 49] Android, [00000278F703ED00][00000278F9096980 49] Android_Low, [00000278F708AE00][00000278F909AB00 49] Android_Mid, [00000278F703E600][00000278F909EC80 49] Android_High, [00000278F7088500][00000278F90A2E00 49] Android_Default, [00000278F703E500][00000278F90A6F80 49] Android_Adreno4xx, [00000278F7089000][00000278F90AB100 49] Android_Adreno5xx_Low, [00000278F703E000][00000278F90AF280 49] Android_Adreno5xx, [00000278F7088E00][00000278F90B3400 49] Android_Adreno6xx, [00000278F703CD00][00000278F90B7580 49] Android_Adreno6xx_Vulkan, [00000278F708A500][00000278F90BB700 49] Android_Mali_T6xx, [00000278F703C500][00000278F90BF880 49] Android_Mali_T7xx, [00000278F708A400][00000278F90759C0 49] Android_Mali_T8xx, [00000278F703CB00][00000278F90C3B00 49] Android_Mali_G71, [00000278F7089800][00000278F90C7C40 49] Android_Mali_G72, [00000278F703D000][00000278F90CE100 49] Android_Mali_G72_Vulkan, [00000278F7088A00][00000278F90D2280 49] Android_Mali_G76, [00000278F703D900][00000278F90D6400 49] Android_Mali_G76_Vulkan, [00000278F708A600][00000278F90DA580 49] Android_Mali_G77, [00000278F703DD00][00000278F90DE700 49] Android_Mali_G77_Vulkan, [00000278F708B100][00000278F90E2880 49] Android_Vulkan_SM5, [00000278F703FB00][00000278F90E6A00 49] Android_PowerVR_G6xxx, [00000278F7088F00][00000278F90EAB80 49] Android_PowerVR_GT7xxx, [00000278F703EF00][00000278F90EED00 49] Android_PowerVR_GE8xxx, [00000278F708B200][00000278F90F2E80 49] Android_PowerVR_GM9xxx, [00000278F703C800][00000278F90F7000 49] Android_PowerVR_GM9xxx_Vulkan, [00000278F708BB00][00000278F90FB180 49] Android_TegraK1, [00000278F703F700][00000278F90FF300 49] Android_Unknown_Vulkan, [00000278F7089900][00000278F9103480 49] Lumin, [00000278F703D200][00000278F9107600 49] Lumin_Desktop, [00000278F708B400][00000278F910B780 49] HoloLens, 
+[2022.03.22-12.13.22:486][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.22-12.13.22:486][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.22-12.13.22:486][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.22-12.13.22:486][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.22-12.13.22:486][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.22-12.13.22:644][  0]LogNetVersion: ProjectESIEE_BOUQUET 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2923746156)
+[2022.03.22-12.13.23:492][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.22-12.13.23:617][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.124196 seconds
+[2022.03.22-12.13.23:628][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.03.22-12.13.23:628][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.03.22-12.13.23:628][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.22-12.13.24:680][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.22-12.13.24:692][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.22-12.13.24:859][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.03.22-12.13.24:859][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.03.22-12.13.24:859][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2022.03.22-12.13.24:974][  0]SourceControl: Source control is disabled
+[2022.03.22-12.13.24:974][  0]SourceControl: Source control is disabled
+[2022.03.22-12.13.24:987][  0]SourceControl: Source control is disabled
+[2022.03.22-12.13.25:007][  0]SourceControl: Source control is disabled
+[2022.03.22-12.13.25:050][  0]SourceControl: Source control is disabled
+[2022.03.22-12.13.25:138][  0]LogUProjectInfo: Found projects:
+[2022.03.22-12.13.25:650][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.22-12.13.25:717][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.22-12.13.25:717][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.22-12.13.25:923][  0]LogCollectionManager: Loaded 0 collections in 0.003031 seconds
+[2022.03.22-12.13.25:968][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Collections/' took 0.00s
+[2022.03.22-12.13.25:968][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/Developers/david/Collections/' took 0.00s
+[2022.03.22-12.13.25:968][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/Collections/' took 0.00s
+[2022.03.22-12.13.25:982][  0]LogOcInput: OculusInput pre-init called
+[2022.03.22-12.13.26:012][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.03.22-12.13.26:012][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.03.22-12.13.26:121][  0]LogEngine: Initializing Engine...
+[2022.03.22-12.13.26:126][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.22-12.13.26:126][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.22-12.13.26:129][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.22-12.13.26:333][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.22-12.13.26:354][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.22-12.13.26:363][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.22-12.13.26:375][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.22-12.13.26:375][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.22-12.13.26:375][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.22-12.13.26:375][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.22-12.13.26:375][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.22-12.13.26:375][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.22-12.13.26:375][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.22-12.13.26:375][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.22-12.13.26:375][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.22-12.13.26:376][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.22-12.13.26:376][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.22-12.13.26:376][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.22-12.13.26:400][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.22-12.13.26:400][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.22-12.13.26:490][  0]LogAudioMixer: Display: Using Audio Device Haut-parleur (Synaptics Audio)
+[2022.03.22-12.13.26:494][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.22-12.13.26:498][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.22-12.13.26:498][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.22-12.13.26:499][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.22-12.13.26:499][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.22-12.13.26:499][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.22-12.13.26:501][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.22-12.13.26:501][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.22-12.13.26:501][  0]LogInit: FAudioDevice initialized.
+[2022.03.22-12.13.26:501][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.22-12.13.26:502][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.22-12.13.26:590][  0]LogDerivedDataCache: Saved boot cache 0.09s 77MB C:/Users/david/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.22-12.13.26:593][  0]LogInit: Texture streaming: Enabled
+[2022.03.22-12.13.26:631][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.03.22-12.13.26:644][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.22-12.13.26:644][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.22-12.13.26:651][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.22-12.13.26:715][  0]LogInit: Transaction tracking system initialized
+[2022.03.22-12.13.26:780][  0]BlueprintLog: New page: Editor Load
+[2022.03.22-12.13.26:989][  0]LocalizationService: Localization service is disabled
+[2022.03.22-12.13.27:069][  0]TimingProfiler: Initialize
+[2022.03.22-12.13.27:069][  0]TimingProfiler: OnSessionChanged
+[2022.03.22-12.13.27:069][  0]LoadingProfiler: Initialize
+[2022.03.22-12.13.27:070][  0]LoadingProfiler: OnSessionChanged
+[2022.03.22-12.13.27:070][  0]NetworkingProfiler: Initialize
+[2022.03.22-12.13.27:070][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.22-12.13.27:070][  0]MemoryProfiler: Initialize
+[2022.03.22-12.13.27:070][  0]MemoryProfiler: OnSessionChanged
+[2022.03.22-12.13.27:375][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.22-12.13.27:375][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.22-12.13.27:795][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/' took 0.02s
+[2022.03.22-12.13.28:067][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.22-12.13.28:082][  0]SourceControl: Source control is disabled
+[2022.03.22-12.13.28:082][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.279
+[2022.03.22-12.13.28:083][  0]LightingResults: New page: Lighting Build
+[2022.03.22-12.13.28:084][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.22-12.13.28:084][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.13.28:084][  0]MapCheck: New page: Map Check
+[2022.03.22-12.13.28:084][  0]LightingResults: New page: Lighting Build
+[2022.03.22-12.13.28:096][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.03.22-12.13.28:533][  0]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2022.03.22-12.13.28:613][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.03.22-12.13.28:615][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.22-12.13.28:677][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.22-12.13.28:695][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.03.22-12.13.28:696][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.22-12.13.28:696][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,324ms to complete.
+[2022.03.22-12.13.28:696][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.614
+[2022.03.22-12.13.28:700][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.897
+[2022.03.22-12.13.28:938][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.13.28:949][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.13.28:959][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.13.28:969][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.13.29:037][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0165 seconds. Added 3601 classes and 859 folders.
+[2022.03.22-12.13.29:052][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.03.22-12.13.29:064][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.22-12.13.29:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.22-12.13.29:064][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.03.22-12.13.29:069][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.22-12.13.29:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:069][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.22-12.13.29:069][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.03.22-12.13.29:072][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.22-12.13.29:072][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:072][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.22-12.13.29:072][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.22-12.13.29:075][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.22-12.13.29:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.22-12.13.29:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.22-12.13.29:077][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.22-12.13.29:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.22-12.13.29:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.03.22-12.13.29:080][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.22-12.13.29:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.22-12.13.29:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.03.22-12.13.29:082][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.22-12.13.29:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.22-12.13.29:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.03.22-12.13.29:085][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.22-12.13.29:085][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:085][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.22-12.13.29:085][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.03.22-12.13.29:088][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.22-12.13.29:088][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:088][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.22-12.13.29:088][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2022.03.22-12.13.29:091][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.22-12.13.29:091][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:091][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.22-12.13.29:091][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.03.22-12.13.29:093][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.22-12.13.29:093][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:093][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.22-12.13.29:093][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.03.22-12.13.29:096][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.22-12.13.29:096][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:096][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.22-12.13.29:096][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.03.22-12.13.29:099][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.22-12.13.29:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.22-12.13.29:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.03.22-12.13.29:102][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.22-12.13.29:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.22-12.13.29:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.03.22-12.13.29:104][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.22-12.13.29:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.22-12.13.29:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2022.03.22-12.13.29:107][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.22-12.13.29:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.22-12.13.29:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2022.03.22-12.13.29:110][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.22-12.13.29:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.22-12.13.29:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2022.03.22-12.13.29:113][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.22-12.13.29:113][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:113][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.22-12.13.29:113][  0]LogPakFile: OnPakFileMounted2Time == 0.000124
+[2022.03.22-12.13.29:115][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.22-12.13.29:115][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:115][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.22-12.13.29:115][  0]LogPakFile: OnPakFileMounted2Time == 0.000130
+[2022.03.22-12.13.29:118][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.22-12.13.29:118][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:118][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.22-12.13.29:118][  0]LogPakFile: OnPakFileMounted2Time == 0.000136
+[2022.03.22-12.13.29:120][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.22-12.13.29:121][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:121][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.22-12.13.29:121][  0]LogPakFile: OnPakFileMounted2Time == 0.000144
+[2022.03.22-12.13.29:123][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.22-12.13.29:123][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:123][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.22-12.13.29:124][  0]LogPakFile: OnPakFileMounted2Time == 0.000155
+[2022.03.22-12.13.29:126][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.22-12.13.29:126][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:126][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.22-12.13.29:126][  0]LogPakFile: OnPakFileMounted2Time == 0.000161
+[2022.03.22-12.13.29:128][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.22-12.13.29:128][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:129][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.22-12.13.29:129][  0]LogPakFile: OnPakFileMounted2Time == 0.000172
+[2022.03.22-12.13.29:132][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.22-12.13.29:132][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:132][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.22-12.13.29:132][  0]LogPakFile: OnPakFileMounted2Time == 0.000177
+[2022.03.22-12.13.29:135][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.22-12.13.29:135][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.22-12.13.29:135][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.22-12.13.29:135][  0]LogPakFile: OnPakFileMounted2Time == 0.000184
+[2022.03.22-12.13.29:373][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.03.22-12.13.29:391][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2022.03.22-12.13.29:523][  0]LogSlate: Took 0.000646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.22-12.13.29:528][  0]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.22-12.13.29:542][  0]LogSlate: Took 0.001228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.22-12.13.29:704][  0]LogRenderer: Reallocating scene render targets to support 740x452 Format 10 NumSamples 1 (Frame:1).
+[2022.03.22-12.13.30:546][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.03.22-12.13.30:546][  0]LogLoad: (Engine Initialization) Total time: 13.74 seconds
+[2022.03.22-12.13.30:546][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.22-12.13.30:546][  0]LogInit: First time updating LLM stats...
+[2022.03.22-12.13.30:626][  0]LogAssetRegistry: Asset discovery search completed in 8.7939 seconds
+[2022.03.22-12.13.30:628][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.03.22-12.13.30:699][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.22-12.13.30:756][  0]LogSlate: Took 0.001534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.22-12.14.06:587][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.03.22-12.14.06:603][678]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.22-12.14.07:392][678]LogStaticMesh: Building static mesh SM_Prop_Cannon_02...
+[2022.03.22-12.14.07:438][678]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Cannon_02.SM_Prop_Cannon_02
+[2022.03.22-12.14.07:449][678]LogStaticMesh: Building static mesh SM_Prop_Cannon_01...
+[2022.03.22-12.14.07:488][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Cannon_01.SM_Prop_Cannon_01
+[2022.03.22-12.14.07:494][678]LogStaticMesh: Building static mesh SM_Prop_Campfire_Pot_01...
+[2022.03.22-12.14.07:498][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Campfire_Pot_01.SM_Prop_Campfire_Pot_01
+[2022.03.22-12.14.07:501][678]LogStaticMesh: Building static mesh SM_Prop_Campfire_01...
+[2022.03.22-12.14.07:503][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Campfire_01.SM_Prop_Campfire_01
+[2022.03.22-12.14.07:506][678]LogStaticMesh: Building static mesh SM_Prop_Cage_02...
+[2022.03.22-12.14.07:526][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Cage_02.SM_Prop_Cage_02
+[2022.03.22-12.14.07:534][678]LogStaticMesh: Building static mesh SM_Prop_Cage_01...
+[2022.03.22-12.14.07:545][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Cage_01.SM_Prop_Cage_01
+[2022.03.22-12.14.07:548][678]LogStaticMesh: Building static mesh SM_Prop_Bench_01...
+[2022.03.22-12.14.07:550][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Bench_01.SM_Prop_Bench_01
+[2022.03.22-12.14.07:553][678]LogStaticMesh: Building static mesh SM_Env_Vines_Wall_02...
+[2022.03.22-12.14.07:555][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Vines_Wall_02.SM_Env_Vines_Wall_02
+[2022.03.22-12.14.07:557][678]LogStaticMesh: Building static mesh SM_Env_Vines_Wall_01...
+[2022.03.22-12.14.07:560][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Vines_Wall_01.SM_Env_Vines_Wall_01
+[2022.03.22-12.14.07:602][678]LogMaterial: Display: Missing cached shader map for material Mat_PolygonPirates_Water, compiling. 
+[2022.03.22-12.14.07:877][678]LogStaticMesh: Building static mesh SM_Env_Unreal_Water...
+[2022.03.22-12.14.08:083][678]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 176
+[2022.03.22-12.14.08:083][678]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 166
+[2022.03.22-12.14.08:083][678]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 156
+[2022.03.22-12.14.08:083][678]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 146
+[2022.03.22-12.14.08:207][678]LogStaticMesh: Built static mesh [0.33s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Unreal_Water.SM_Env_Unreal_Water
+[2022.03.22-12.14.08:270][678]LogStaticMesh: Building static mesh SM_Env_Tree_Vines_05...
+[2022.03.22-12.14.08:278][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Tree_Vines_05.SM_Env_Tree_Vines_05
+[2022.03.22-12.14.08:281][678]LogStaticMesh: Building static mesh SM_Env_Tree_Large_02...
+[2022.03.22-12.14.08:297][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Tree_Large_02.SM_Env_Tree_Large_02
+[2022.03.22-12.14.08:302][678]LogStaticMesh: Building static mesh SM_Env_Tree_Large_01...
+[2022.03.22-12.14.08:318][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Tree_Large_01.SM_Env_Tree_Large_01
+[2022.03.22-12.14.08:322][678]LogStaticMesh: Building static mesh SM_Env_SugarCane_02...
+[2022.03.22-12.14.08:329][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_SugarCane_02.SM_Env_SugarCane_02
+[2022.03.22-12.14.08:332][678]LogStaticMesh: Building static mesh SM_Env_SugarCane_01...
+[2022.03.22-12.14.08:334][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_SugarCane_01.SM_Env_SugarCane_01
+[2022.03.22-12.14.08:337][678]LogStaticMesh: Building static mesh SM_Env_Rocks_03...
+[2022.03.22-12.14.08:338][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rocks_03.SM_Env_Rocks_03
+[2022.03.22-12.14.08:339][678]LogStaticMesh: Building static mesh SM_Env_Rocks_02...
+[2022.03.22-12.14.08:343][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rocks_02.SM_Env_Rocks_02
+[2022.03.22-12.14.08:345][678]LogStaticMesh: Building static mesh SM_Env_Rocks_01...
+[2022.03.22-12.14.08:348][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rocks_01.SM_Env_Rocks_01
+[2022.03.22-12.14.08:350][678]LogStaticMesh: Building static mesh SM_Env_Rock_Skull_01...
+[2022.03.22-12.14.08:379][678]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rock_Skull_01.SM_Env_Rock_Skull_01
+[2022.03.22-12.14.08:386][678]LogStaticMesh: Building static mesh SM_Env_Rock_Large_09...
+[2022.03.22-12.14.08:406][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rock_Large_09.SM_Env_Rock_Large_09
+[2022.03.22-12.14.08:411][678]LogStaticMesh: Building static mesh SM_Env_Rock_Large_05...
+[2022.03.22-12.14.08:418][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rock_Large_05.SM_Env_Rock_Large_05
+[2022.03.22-12.14.08:420][678]LogStaticMesh: Building static mesh SM_Env_Rock_Large_04...
+[2022.03.22-12.14.08:430][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rock_Large_04.SM_Env_Rock_Large_04
+[2022.03.22-12.14.08:434][678]LogStaticMesh: Building static mesh SM_Env_Rock_Large_02...
+[2022.03.22-12.14.08:447][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rock_Large_02.SM_Env_Rock_Large_02
+[2022.03.22-12.14.08:453][678]LogStaticMesh: Building static mesh SM_Env_Rock_Large_010...
+[2022.03.22-12.14.08:463][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rock_Large_010.SM_Env_Rock_Large_010
+[2022.03.22-12.14.08:467][678]LogStaticMesh: Building static mesh SM_Env_Rock_Large_01...
+[2022.03.22-12.14.08:472][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rock_Large_01.SM_Env_Rock_Large_01
+[2022.03.22-12.14.08:474][678]LogStaticMesh: Building static mesh SM_Env_Rock_Huge_02...
+[2022.03.22-12.14.08:484][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rock_Huge_02.SM_Env_Rock_Huge_02
+[2022.03.22-12.14.08:488][678]LogStaticMesh: Building static mesh SM_Env_Rock_Huge_01...
+[2022.03.22-12.14.08:496][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rock_Huge_01.SM_Env_Rock_Huge_01
+[2022.03.22-12.14.08:499][678]LogStaticMesh: Building static mesh SM_Env_Rock_Arch_01...
+[2022.03.22-12.14.08:514][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rock_Arch_01.SM_Env_Rock_Arch_01
+[2022.03.22-12.14.08:520][678]LogStaticMesh: Building static mesh SM_Env_Rock_02...
+[2022.03.22-12.14.08:523][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rock_02.SM_Env_Rock_02
+[2022.03.22-12.14.08:526][678]LogStaticMesh: Building static mesh SM_Env_Rock_01...
+[2022.03.22-12.14.08:529][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Rock_01.SM_Env_Rock_01
+[2022.03.22-12.14.08:531][678]LogStaticMesh: Building static mesh SM_Env_Plants_02...
+[2022.03.22-12.14.08:535][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Plants_02.SM_Env_Plants_02
+[2022.03.22-12.14.08:537][678]LogStaticMesh: Building static mesh SM_Env_Plants_01...
+[2022.03.22-12.14.08:543][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Plants_01.SM_Env_Plants_01
+[2022.03.22-12.14.08:545][678]LogStaticMesh: Building static mesh SM_Env_PalmTree_Tall_02...
+[2022.03.22-12.14.08:558][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_PalmTree_Tall_02.SM_Env_PalmTree_Tall_02
+[2022.03.22-12.14.08:561][678]LogStaticMesh: Building static mesh SM_Env_PalmTree_04...
+[2022.03.22-12.14.08:575][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_PalmTree_04.SM_Env_PalmTree_04
+[2022.03.22-12.14.08:579][678]LogStaticMesh: Building static mesh SM_Env_PalmTree_03...
+[2022.03.22-12.14.08:592][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_PalmTree_03.SM_Env_PalmTree_03
+[2022.03.22-12.14.08:596][678]LogStaticMesh: Building static mesh SM_Env_PalmTree_02...
+[2022.03.22-12.14.08:608][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_PalmTree_02.SM_Env_PalmTree_02
+[2022.03.22-12.14.08:612][678]LogStaticMesh: Building static mesh SM_Env_PalmTree_01...
+[2022.03.22-12.14.08:625][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_PalmTree_01.SM_Env_PalmTree_01
+[2022.03.22-12.14.08:629][678]LogStaticMesh: Building static mesh SM_Env_PalmBush_03...
+[2022.03.22-12.14.08:635][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_PalmBush_03.SM_Env_PalmBush_03
+[2022.03.22-12.14.08:637][678]LogStaticMesh: Building static mesh SM_Env_Mangrove_Tree_02...
+[2022.03.22-12.14.08:654][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Mangrove_Tree_02.SM_Env_Mangrove_Tree_02
+[2022.03.22-12.14.08:658][678]LogStaticMesh: Building static mesh SM_Env_Mangrove_Tree_01...
+[2022.03.22-12.14.08:680][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Mangrove_Tree_01.SM_Env_Mangrove_Tree_01
+[2022.03.22-12.14.08:685][678]LogStaticMesh: Building static mesh SM_Env_Mangrove_Roots_01...
+[2022.03.22-12.14.08:690][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Mangrove_Roots_01.SM_Env_Mangrove_Roots_01
+[2022.03.22-12.14.08:694][678]LogStaticMesh: Building static mesh SM_Env_Grass_02...
+[2022.03.22-12.14.08:703][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Grass_02.SM_Env_Grass_02
+[2022.03.22-12.14.08:706][678]LogStaticMesh: Building static mesh SM_Env_Grass_01...
+[2022.03.22-12.14.08:710][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Grass_01.SM_Env_Grass_01
+[2022.03.22-12.14.08:712][678]LogStaticMesh: Building static mesh SM_Env_Flowers_02...
+[2022.03.22-12.14.08:735][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Flowers_02.SM_Env_Flowers_02
+[2022.03.22-12.14.08:740][678]LogStaticMesh: Building static mesh SM_Env_Flowers_01...
+[2022.03.22-12.14.08:745][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Flowers_01.SM_Env_Flowers_01
+[2022.03.22-12.14.08:747][678]LogStaticMesh: Building static mesh SM_Env_Flat_Sand_02...
+[2022.03.22-12.14.08:750][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Flat_Sand_02.SM_Env_Flat_Sand_02
+[2022.03.22-12.14.08:752][678]LogStaticMesh: Building static mesh SM_Env_Cloud_03...
+[2022.03.22-12.14.08:759][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Cloud_03.SM_Env_Cloud_03
+[2022.03.22-12.14.08:763][678]LogStaticMesh: Building static mesh SM_Env_Cloud_02...
+[2022.03.22-12.14.08:767][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Cloud_02.SM_Env_Cloud_02
+[2022.03.22-12.14.08:772][678]LogMaterial: Display: Missing cached shader map for material Mat_PolygonPirates_01_A_Emission, compiling. 
+[2022.03.22-12.14.08:854][678]LogStaticMesh: Building static mesh SM_Env_Cloud_01...
+[2022.03.22-12.14.08:859][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Cloud_01.SM_Env_Cloud_01
+[2022.03.22-12.14.08:861][678]LogStaticMesh: Building static mesh SM_Env_Beach_Pile_03...
+[2022.03.22-12.14.08:862][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Beach_Pile_03.SM_Env_Beach_Pile_03
+[2022.03.22-12.14.08:864][678]LogStaticMesh: Building static mesh SM_Env_Beach_06...
+[2022.03.22-12.14.08:878][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Beach_06.SM_Env_Beach_06
+[2022.03.22-12.14.08:882][678]LogStaticMesh: Building static mesh SM_Env_Beach_05...
+[2022.03.22-12.14.08:891][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Beach_05.SM_Env_Beach_05
+[2022.03.22-12.14.08:894][678]LogStaticMesh: Building static mesh SM_Env_Beach_04...
+[2022.03.22-12.14.08:905][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Beach_04.SM_Env_Beach_04
+[2022.03.22-12.14.08:909][678]LogStaticMesh: Building static mesh SM_Env_Beach_03...
+[2022.03.22-12.14.08:928][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Beach_03.SM_Env_Beach_03
+[2022.03.22-12.14.08:933][678]LogStaticMesh: Building static mesh SM_Env_Beach_02...
+[2022.03.22-12.14.08:938][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Environments/SM_Env_Beach_02.SM_Env_Beach_02
+[2022.03.22-12.14.09:205][678]LogStaticMesh: Building static mesh SM_Prop_Debris_01...
+[2022.03.22-12.14.09:222][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Debris_01.SM_Prop_Debris_01
+[2022.03.22-12.14.09:226][678]LogStaticMesh: Building static mesh SM_Prop_Debris_02...
+[2022.03.22-12.14.09:233][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Debris_02.SM_Prop_Debris_02
+[2022.03.22-12.14.09:236][678]LogStaticMesh: Building static mesh SM_Prop_Debris_03...
+[2022.03.22-12.14.09:240][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Debris_03.SM_Prop_Debris_03
+[2022.03.22-12.14.09:323][678]LogStaticMesh: Building static mesh SM_Prop_Cannon_03...
+[2022.03.22-12.14.09:389][678]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Cannon_03.SM_Prop_Cannon_03
+[2022.03.22-12.14.09:404][678]LogStaticMesh: Building static mesh SM_Prop_Cart_01...
+[2022.03.22-12.14.09:475][678]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Cart_01.SM_Prop_Cart_01
+[2022.03.22-12.14.09:486][678]LogStaticMesh: Building static mesh SM_Prop_Chimney_01...
+[2022.03.22-12.14.09:489][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Chimney_01.SM_Prop_Chimney_01
+[2022.03.22-12.14.09:491][678]LogStaticMesh: Building static mesh SM_Prop_Chimney_02...
+[2022.03.22-12.14.09:498][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Chimney_02.SM_Prop_Chimney_02
+[2022.03.22-12.14.09:501][678]LogStaticMesh: Building static mesh SM_Prop_ClothesLine_01...
+[2022.03.22-12.14.09:508][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_ClothesLine_01.SM_Prop_ClothesLine_01
+[2022.03.22-12.14.09:510][678]LogStaticMesh: Building static mesh SM_Prop_Crane_01...
+[2022.03.22-12.14.09:611][678]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Crane_01.SM_Prop_Crane_01
+[2022.03.22-12.14.09:626][678]LogStaticMesh: Building static mesh SM_Prop_Crane_02...
+[2022.03.22-12.14.09:646][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Crane_02.SM_Prop_Crane_02
+[2022.03.22-12.14.09:651][678]LogStaticMesh: Building static mesh SM_Prop_Crane_03...
+[2022.03.22-12.14.09:664][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Crane_03.SM_Prop_Crane_03
+[2022.03.22-12.14.09:667][678]LogStaticMesh: Building static mesh SM_Prop_Crane_Shark_01...
+[2022.03.22-12.14.09:737][678]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Crane_Shark_01.SM_Prop_Crane_Shark_01
+[2022.03.22-12.14.09:748][678]LogStaticMesh: Building static mesh SM_Prop_Crate_01...
+[2022.03.22-12.14.09:757][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Crate_01.SM_Prop_Crate_01
+[2022.03.22-12.14.09:760][678]LogStaticMesh: Building static mesh SM_Prop_Crate_05...
+[2022.03.22-12.14.09:762][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Crate_05.SM_Prop_Crate_05
+[2022.03.22-12.14.09:764][678]LogStaticMesh: Building static mesh SM_Prop_Crate_06...
+[2022.03.22-12.14.09:775][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Crate_06.SM_Prop_Crate_06
+[2022.03.22-12.14.09:778][678]LogStaticMesh: Building static mesh SM_Prop_Door_01...
+[2022.03.22-12.14.09:787][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Door_01.SM_Prop_Door_01
+[2022.03.22-12.14.09:790][678]LogStaticMesh: Building static mesh SM_Prop_Door_02...
+[2022.03.22-12.14.09:795][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Door_02.SM_Prop_Door_02
+[2022.03.22-12.14.09:798][678]LogStaticMesh: Building static mesh SM_Prop_Door_03...
+[2022.03.22-12.14.09:802][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Door_03.SM_Prop_Door_03
+[2022.03.22-12.14.09:805][678]LogStaticMesh: Building static mesh SM_Prop_Fence_02...
+[2022.03.22-12.14.09:810][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Fence_02.SM_Prop_Fence_02
+[2022.03.22-12.14.09:814][678]LogStaticMesh: Building static mesh SM_Prop_Fence_03...
+[2022.03.22-12.14.09:820][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Fence_03.SM_Prop_Fence_03
+[2022.03.22-12.14.09:825][678]LogStaticMesh: Building static mesh SM_Prop_Fishing_Crate_01...
+[2022.03.22-12.14.09:834][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Fishing_Crate_01.SM_Prop_Fishing_Crate_01
+[2022.03.22-12.14.09:844][678]LogStaticMesh: Building static mesh SM_Prop_FishRack_01...
+[2022.03.22-12.14.09:882][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_FishRack_01.SM_Prop_FishRack_01
+[2022.03.22-12.14.09:890][678]LogStaticMesh: Building static mesh SM_Prop_FlowerHanging_01...
+[2022.03.22-12.14.09:895][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_FlowerHanging_01.SM_Prop_FlowerHanging_01
+[2022.03.22-12.14.09:898][678]LogStaticMesh: Building static mesh SM_Prop_FlowerHanging_02...
+[2022.03.22-12.14.09:908][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_FlowerHanging_02.SM_Prop_FlowerHanging_02
+[2022.03.22-12.14.09:912][678]LogStaticMesh: Building static mesh SM_Prop_Fountain_01...
+[2022.03.22-12.14.09:941][678]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Fountain_01.SM_Prop_Fountain_01
+[2022.03.22-12.14.09:948][678]LogStaticMesh: Building static mesh SM_Prop_Fountain_Water_01...
+[2022.03.22-12.14.09:950][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Fountain_Water_01.SM_Prop_Fountain_Water_01
+[2022.03.22-12.14.09:952][678]LogStaticMesh: Building static mesh SM_Prop_Gallows_01...
+[2022.03.22-12.14.09:975][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Gallows_01.SM_Prop_Gallows_01
+[2022.03.22-12.14.09:980][678]LogStaticMesh: Building static mesh SM_Prop_Gallows_Trapdoor_01...
+[2022.03.22-12.14.09:982][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Gallows_Trapdoor_01.SM_Prop_Gallows_Trapdoor_01
+[2022.03.22-12.14.09:983][678]LogStaticMesh: Building static mesh SM_Prop_Lantern_Attachment_01...
+[2022.03.22-12.14.09:993][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Lantern_Attachment_01.SM_Prop_Lantern_Attachment_01
+[2022.03.22-12.14.09:997][678]LogStaticMesh: Building static mesh SM_Prop_Liferaft_01...
+[2022.03.22-12.14.10:052][678]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Liferaft_01.SM_Prop_Liferaft_01
+[2022.03.22-12.14.10:061][678]LogStaticMesh: Building static mesh SM_Prop_Liferaft_Stand_01...
+[2022.03.22-12.14.10:064][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Liferaft_Stand_01.SM_Prop_Liferaft_Stand_01
+[2022.03.22-12.14.10:066][678]LogStaticMesh: Building static mesh SM_Prop_Planter_01...
+[2022.03.22-12.14.10:074][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Planter_01.SM_Prop_Planter_01
+[2022.03.22-12.14.10:077][678]LogStaticMesh: Building static mesh SM_Prop_Planter_02...
+[2022.03.22-12.14.10:086][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Planter_02.SM_Prop_Planter_02
+[2022.03.22-12.14.10:089][678]LogStaticMesh: Building static mesh SM_Prop_Raft_01...
+[2022.03.22-12.14.10:141][678]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Raft_01.SM_Prop_Raft_01
+[2022.03.22-12.14.10:150][678]LogStaticMesh: Building static mesh SM_Prop_RoofFence_01...
+[2022.03.22-12.14.10:155][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_RoofFence_01.SM_Prop_RoofFence_01
+[2022.03.22-12.14.10:157][678]LogStaticMesh: Building static mesh SM_Prop_Shanty_BuildingAttachment_02...
+[2022.03.22-12.14.10:159][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Shanty_BuildingAttachment_02.SM_Prop_Shanty_BuildingAttachment_02
+[2022.03.22-12.14.10:162][678]LogStaticMesh: Building static mesh SM_Prop_Shanty_BuildingAttachment_04...
+[2022.03.22-12.14.10:164][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Shanty_BuildingAttachment_04.SM_Prop_Shanty_BuildingAttachment_04
+[2022.03.22-12.14.10:166][678]LogStaticMesh: Building static mesh SM_Prop_ShipWheel_01...
+[2022.03.22-12.14.10:179][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_ShipWheel_01.SM_Prop_ShipWheel_01
+[2022.03.22-12.14.10:184][678]LogStaticMesh: Building static mesh SM_Prop_ShipWheel_02...
+[2022.03.22-12.14.10:213][678]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_ShipWheel_02.SM_Prop_ShipWheel_02
+[2022.03.22-12.14.10:220][678]LogStaticMesh: Building static mesh SM_Prop_ShipWheel_03...
+[2022.03.22-12.14.10:255][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_ShipWheel_03.SM_Prop_ShipWheel_03
+[2022.03.22-12.14.10:263][678]LogStaticMesh: Building static mesh SM_Prop_Shipwreck_02...
+[2022.03.22-12.14.12:730][678]LogStaticMesh: Built static mesh [2.47s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Shipwreck_02.SM_Prop_Shipwreck_02
+[2022.03.22-12.14.12:859][678]LogStaticMesh: Building static mesh SM_Prop_Shipwreck_03...
+[2022.03.22-12.14.13:822][678]LogStaticMesh: Built static mesh [0.96s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Shipwreck_03.SM_Prop_Shipwreck_03
+[2022.03.22-12.14.13:882][678]LogStaticMesh: Building static mesh SM_Prop_Skeleton_Cage_02...
+[2022.03.22-12.14.13:973][678]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Skeleton_Cage_02.SM_Prop_Skeleton_Cage_02
+[2022.03.22-12.14.13:989][678]LogStaticMesh: Building static mesh SM_Prop_Stack_01...
+[2022.03.22-12.14.14:024][678]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Stack_01.SM_Prop_Stack_01
+[2022.03.22-12.14.14:030][678]LogStaticMesh: Building static mesh SM_Prop_Stack_02...
+[2022.03.22-12.14.14:209][678]LogStaticMesh: Built static mesh [0.18s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Stack_02.SM_Prop_Stack_02
+[2022.03.22-12.14.14:225][678]LogStaticMesh: Building static mesh SM_Prop_Stack_03...
+[2022.03.22-12.14.14:253][678]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Stack_03.SM_Prop_Stack_03
+[2022.03.22-12.14.14:259][678]LogStaticMesh: Building static mesh SM_Prop_Stack_04...
+[2022.03.22-12.14.14:313][678]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Stack_04.SM_Prop_Stack_04
+[2022.03.22-12.14.14:323][678]LogStaticMesh: Building static mesh SM_Prop_Stack_05...
+[2022.03.22-12.14.14:384][678]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Stack_05.SM_Prop_Stack_05
+[2022.03.22-12.14.14:397][678]LogStaticMesh: Building static mesh SM_Prop_Stack_06...
+[2022.03.22-12.14.14:469][678]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Stack_06.SM_Prop_Stack_06
+[2022.03.22-12.14.14:481][678]LogStaticMesh: Building static mesh SM_Prop_Stall_Cloth_01...
+[2022.03.22-12.14.14:492][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Stall_Cloth_01.SM_Prop_Stall_Cloth_01
+[2022.03.22-12.14.14:497][678]LogStaticMesh: Building static mesh SM_Prop_Stall_Cloth_02...
+[2022.03.22-12.14.14:512][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Stall_Cloth_02.SM_Prop_Stall_Cloth_02
+[2022.03.22-12.14.14:516][678]LogStaticMesh: Building static mesh SM_Prop_Stall_Cloth_03...
+[2022.03.22-12.14.14:523][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Stall_Cloth_03.SM_Prop_Stall_Cloth_03
+[2022.03.22-12.14.14:526][678]LogStaticMesh: Building static mesh SM_Prop_Stall_Cloth_04...
+[2022.03.22-12.14.14:542][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Stall_Cloth_04.SM_Prop_Stall_Cloth_04
+[2022.03.22-12.14.14:548][678]LogStaticMesh: Building static mesh SM_Prop_StallCover_01...
+[2022.03.22-12.14.14:556][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_StallCover_01.SM_Prop_StallCover_01
+[2022.03.22-12.14.14:559][678]LogStaticMesh: Building static mesh SM_Prop_Stool_02...
+[2022.03.22-12.14.14:562][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Stool_02.SM_Prop_Stool_02
+[2022.03.22-12.14.14:564][678]LogStaticMesh: Building static mesh SM_Prop_SugarCane_Holder_02...
+[2022.03.22-12.14.14:595][678]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_SugarCane_Holder_02.SM_Prop_SugarCane_Holder_02
+[2022.03.22-12.14.14:601][678]LogStaticMesh: Building static mesh SM_Prop_SugarCane_Pile_01...
+[2022.03.22-12.14.14:606][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_SugarCane_Pile_01.SM_Prop_SugarCane_Pile_01
+[2022.03.22-12.14.14:609][678]LogStaticMesh: Building static mesh SM_Prop_SugarCane_Pile_02...
+[2022.03.22-12.14.14:627][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_SugarCane_Pile_02.SM_Prop_SugarCane_Pile_02
+[2022.03.22-12.14.14:632][678]LogStaticMesh: Building static mesh SM_Prop_Table_01...
+[2022.03.22-12.14.14:637][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Table_01.SM_Prop_Table_01
+[2022.03.22-12.14.14:639][678]LogStaticMesh: Building static mesh SM_Prop_Table_02...
+[2022.03.22-12.14.14:645][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Table_02.SM_Prop_Table_02
+[2022.03.22-12.14.14:648][678]LogStaticMesh: Building static mesh SM_Prop_Table_03...
+[2022.03.22-12.14.14:688][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Table_03.SM_Prop_Table_03
+[2022.03.22-12.14.14:695][678]LogStaticMesh: Building static mesh SM_Prop_Well_01...
+[2022.03.22-12.14.14:701][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Well_01.SM_Prop_Well_01
+[2022.03.22-12.14.14:704][678]LogStaticMesh: Building static mesh SM_Prop_Window_01...
+[2022.03.22-12.14.14:708][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Window_01.SM_Prop_Window_01
+[2022.03.22-12.14.14:711][678]LogStaticMesh: Building static mesh SM_Prop_Window_02...
+[2022.03.22-12.14.14:713][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Window_02.SM_Prop_Window_02
+[2022.03.22-12.14.14:715][678]LogStaticMesh: Building static mesh SM_Prop_Window_03...
+[2022.03.22-12.14.14:725][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Window_03.SM_Prop_Window_03
+[2022.03.22-12.14.14:730][678]LogStaticMesh: Building static mesh SM_Prop_Window_04...
+[2022.03.22-12.14.14:748][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Window_04.SM_Prop_Window_04
+[2022.03.22-12.14.14:753][678]LogStaticMesh: Building static mesh SM_Prop_Window_Top_01...
+[2022.03.22-12.14.14:758][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Props/SM_Prop_Window_Top_01.SM_Prop_Window_Top_01
+[2022.03.22-12.14.14:760][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_01_Hull...
+[2022.03.22-12.14.15:012][678]LogStaticMesh: Built static mesh [0.25s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_01_Hull.SM_Veh_Boat_Large_01_Hull
+[2022.03.22-12.14.15:043][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_01_Hull_Pirate...
+[2022.03.22-12.14.15:283][678]LogStaticMesh: Built static mesh [0.24s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_01_Hull_Pirate.SM_Veh_Boat_Large_01_Hull_Pirate
+[2022.03.22-12.14.15:315][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_01_Rigging...
+[2022.03.22-12.14.15:401][678]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_01_Rigging.SM_Veh_Boat_Large_01_Rigging
+[2022.03.22-12.14.15:413][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Front_SailRigging_01...
+[2022.03.22-12.14.15:415][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Front_SailRigging_01.SM_Veh_Boat_Large_Front_SailRigging_01
+[2022.03.22-12.14.15:417][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Front_SailUp_01_Pirate...
+[2022.03.22-12.14.15:439][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Front_SailUp_01_Pirate.SM_Veh_Boat_Large_Front_SailUp_01_Pirate
+[2022.03.22-12.14.15:444][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Front_SailUp_01...
+[2022.03.22-12.14.15:458][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Front_SailUp_01.SM_Veh_Boat_Large_Front_SailUp_01
+[2022.03.22-12.14.15:463][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Mast_01...
+[2022.03.22-12.14.15:504][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Mast_01.SM_Veh_Boat_Large_Mast_01
+[2022.03.22-12.14.15:511][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Mast_02...
+[2022.03.22-12.14.15:540][678]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Mast_02.SM_Veh_Boat_Large_Mast_02
+[2022.03.22-12.14.15:546][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Mast_SailUp_01_Pirate...
+[2022.03.22-12.14.15:590][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Mast_SailUp_01_Pirate.SM_Veh_Boat_Large_Mast_SailUp_01_Pirate
+[2022.03.22-12.14.15:600][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Mast_SailUp_02_Pirate...
+[2022.03.22-12.14.15:643][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Mast_SailUp_02_Pirate.SM_Veh_Boat_Large_Mast_SailUp_02_Pirate
+[2022.03.22-12.14.15:652][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Mast_SailUp_01...
+[2022.03.22-12.14.15:697][678]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Mast_SailUp_01.SM_Veh_Boat_Large_Mast_SailUp_01
+[2022.03.22-12.14.15:708][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Mast_SailUp_02...
+[2022.03.22-12.14.15:751][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Mast_SailUp_02.SM_Veh_Boat_Large_Mast_SailUp_02
+[2022.03.22-12.14.15:761][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Sails_01...
+[2022.03.22-12.14.15:769][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Sails_01.SM_Veh_Boat_Large_Sails_01
+[2022.03.22-12.14.15:772][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Sails_01_Pirate...
+[2022.03.22-12.14.15:779][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Sails_01_Pirate.SM_Veh_Boat_Large_Sails_01_Pirate
+[2022.03.22-12.14.15:782][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Sails_02...
+[2022.03.22-12.14.15:787][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Sails_02.SM_Veh_Boat_Large_Sails_02
+[2022.03.22-12.14.15:789][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Sails_02_Pirate...
+[2022.03.22-12.14.15:795][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Sails_02_Pirate.SM_Veh_Boat_Large_Sails_02_Pirate
+[2022.03.22-12.14.15:797][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Sails_03...
+[2022.03.22-12.14.15:800][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Sails_03.SM_Veh_Boat_Large_Sails_03
+[2022.03.22-12.14.15:803][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Large_Sails_03_Pirate...
+[2022.03.22-12.14.15:806][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Large_Sails_03_Pirate.SM_Veh_Boat_Large_Sails_03_Pirate
+[2022.03.22-12.14.15:808][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Medium_01_Hull...
+[2022.03.22-12.14.15:918][678]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Medium_01_Hull.SM_Veh_Boat_Medium_01_Hull
+[2022.03.22-12.14.15:936][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Medium_01_Hull_Pirate...
+[2022.03.22-12.14.16:042][678]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Medium_01_Hull_Pirate.SM_Veh_Boat_Medium_01_Hull_Pirate
+[2022.03.22-12.14.16:061][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Medium_01_Mast...
+[2022.03.22-12.14.16:111][678]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Medium_01_Mast.SM_Veh_Boat_Medium_01_Mast
+[2022.03.22-12.14.16:121][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Medium_01_Sails...
+[2022.03.22-12.14.16:125][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Medium_01_Sails.SM_Veh_Boat_Medium_01_Sails
+[2022.03.22-12.14.16:127][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Medium_01_Sails_Pirate...
+[2022.03.22-12.14.16:132][678]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Medium_01_Sails_Pirate.SM_Veh_Boat_Medium_01_Sails_Pirate
+[2022.03.22-12.14.16:135][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Medium_01_Sails_Up...
+[2022.03.22-12.14.16:220][678]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Medium_01_Sails_Up.SM_Veh_Boat_Medium_01_Sails_Up
+[2022.03.22-12.14.16:231][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Medium_01_Sails_Up_Pirate...
+[2022.03.22-12.14.16:315][678]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Medium_01_Sails_Up_Pirate.SM_Veh_Boat_Medium_01_Sails_Up_Pirate
+[2022.03.22-12.14.16:328][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Rowing_01_Hull...
+[2022.03.22-12.14.16:363][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Rowing_01_Hull.SM_Veh_Boat_Rowing_01_Hull
+[2022.03.22-12.14.16:372][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Rowing_01_Hull_Pirate...
+[2022.03.22-12.14.16:409][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Rowing_01_Hull_Pirate.SM_Veh_Boat_Rowing_01_Hull_Pirate
+[2022.03.22-12.14.16:417][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Small_01_Hull...
+[2022.03.22-12.14.16:461][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Small_01_Hull.SM_Veh_Boat_Small_01_Hull
+[2022.03.22-12.14.16:469][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Small_01_Hull_Pirate...
+[2022.03.22-12.14.16:516][678]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Small_01_Hull_Pirate.SM_Veh_Boat_Small_01_Hull_Pirate
+[2022.03.22-12.14.16:527][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Hull...
+[2022.03.22-12.14.18:891][678]LogStaticMesh: Built static mesh [2.36s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Hull.SM_Veh_Boat_Warship_01_Hull
+[2022.03.22-12.14.19:040][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Hull_Pirate...
+[2022.03.22-12.14.21:408][678]LogStaticMesh: Built static mesh [2.37s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Hull_Pirate.SM_Veh_Boat_Warship_01_Hull_Pirate
+[2022.03.22-12.14.21:535][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Mast_01...
+[2022.03.22-12.14.21:591][678]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Mast_01.SM_Veh_Boat_Warship_01_Mast_01
+[2022.03.22-12.14.21:599][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Mast_02...
+[2022.03.22-12.14.21:648][678]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Mast_02.SM_Veh_Boat_Warship_01_Mast_02
+[2022.03.22-12.14.21:659][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Mast_03...
+[2022.03.22-12.14.21:685][678]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Mast_03.SM_Veh_Boat_Warship_01_Mast_03
+[2022.03.22-12.14.21:692][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Mast_SailUp_01_Pirate...
+[2022.03.22-12.14.21:771][678]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Mast_SailUp_01_Pirate.SM_Veh_Boat_Warship_01_Mast_SailUp_01_Pirate
+[2022.03.22-12.14.21:790][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Mast_SailUp_02_Pirate...
+[2022.03.22-12.14.21:871][678]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Mast_SailUp_02_Pirate.SM_Veh_Boat_Warship_01_Mast_SailUp_02_Pirate
+[2022.03.22-12.14.21:887][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Mast_SailUp_03_Pirate...
+[2022.03.22-12.14.21:938][678]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Mast_SailUp_03_Pirate.SM_Veh_Boat_Warship_01_Mast_SailUp_03_Pirate
+[2022.03.22-12.14.21:950][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Mast_SailUp_04...
+[2022.03.22-12.14.21:989][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Mast_SailUp_04.SM_Veh_Boat_Warship_01_Mast_SailUp_04
+[2022.03.22-12.14.21:996][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Mast_SailUp_01...
+[2022.03.22-12.14.22:062][678]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Mast_SailUp_01.SM_Veh_Boat_Warship_01_Mast_SailUp_01
+[2022.03.22-12.14.22:075][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Mast_SailUp_02...
+[2022.03.22-12.14.22:153][678]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Mast_SailUp_02.SM_Veh_Boat_Warship_01_Mast_SailUp_02
+[2022.03.22-12.14.22:169][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Mast_SailUp_03...
+[2022.03.22-12.14.22:211][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Mast_SailUp_03.SM_Veh_Boat_Warship_01_Mast_SailUp_03
+[2022.03.22-12.14.22:220][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Mast_SailUp_05...
+[2022.03.22-12.14.22:256][678]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Mast_SailUp_05.SM_Veh_Boat_Warship_01_Mast_SailUp_05
+[2022.03.22-12.14.22:263][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Rigging...
+[2022.03.22-12.14.22:378][678]LogStaticMesh: Built static mesh [0.12s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Rigging.SM_Veh_Boat_Warship_01_Rigging
+[2022.03.22-12.14.22:395][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Sails_01...
+[2022.03.22-12.14.22:415][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Sails_01.SM_Veh_Boat_Warship_01_Sails_01
+[2022.03.22-12.14.22:419][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Sails_01_Pirate...
+[2022.03.22-12.14.22:437][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Sails_01_Pirate.SM_Veh_Boat_Warship_01_Sails_01_Pirate
+[2022.03.22-12.14.22:442][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Sails_02...
+[2022.03.22-12.14.22:461][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Sails_02.SM_Veh_Boat_Warship_01_Sails_02
+[2022.03.22-12.14.22:466][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Sails_02_Pirate...
+[2022.03.22-12.14.22:484][678]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Sails_02_Pirate.SM_Veh_Boat_Warship_01_Sails_02_Pirate
+[2022.03.22-12.14.22:488][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Sails_03...
+[2022.03.22-12.14.22:496][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Sails_03.SM_Veh_Boat_Warship_01_Sails_03
+[2022.03.22-12.14.22:499][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Sails_03_Pirate...
+[2022.03.22-12.14.22:506][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Sails_03_Pirate.SM_Veh_Boat_Warship_01_Sails_03_Pirate
+[2022.03.22-12.14.22:510][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Sails_04_Pirate...
+[2022.03.22-12.14.22:516][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Sails_04_Pirate.SM_Veh_Boat_Warship_01_Sails_04_Pirate
+[2022.03.22-12.14.22:519][678]LogStaticMesh: Building static mesh SM_Veh_Boat_Warship_01_Sails_05_Pirate...
+[2022.03.22-12.14.22:528][678]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/PolygonPirates/Meshes/Ships/SM_Veh_Boat_Warship_01_Sails_05_Pirate.SM_Veh_Boat_Warship_01_Sails_05_Pirate
+[2022.03.22-12.14.22:718][678]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/PolygonPirates/Maps/Demonstration.Demonstration
+[2022.03.22-12.14.22:751][678]LightingResults: New page: Lighting Build
+[2022.03.22-12.14.22:753][678]LoadErrors: New page: Loading map: Demonstration.umap
+[2022.03.22-12.14.22:769][678]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.22-12.14.22:778][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.14.22:782][678]MapCheck: New page: Map Check
+[2022.03.22-12.14.22:785][678]LightingResults: New page: Lighting Build
+[2022.03.22-12.14.22:863][678]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.22-12.14.22:884][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.03.22-12.14.22:889][678]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demonstration'.
+[2022.03.22-12.14.23:192][678]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2022.03.22-12.14.23:192][678]LogAIModule: Creating AISystem for world Demonstration
+[2022.03.22-12.14.23:240][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.03.22-12.14.23:251][678]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.22-12.14.23:252][678]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,661ms to complete.
+[2022.03.22-12.14.23:253][678]LogFileHelpers: Loading map 'Demonstration' took 0.504
+[2022.03.22-12.14.23:773][679]LogSlate: Took 0.007840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.03.22-12.14.40:848][272]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 204
+[2022.03.22-12.14.52:271][546]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 194
+[2022.03.22-12.14.53:368][569]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 184
+[2022.03.22-12.15.10:040][875]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 174
+[2022.03.22-12.15.27:359][196]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 164
+[2022.03.22-12.15.39:137][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.03.22-12.15.40:595][417]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Demonstration65BC7A0E4993771F2EF922A87A5C0AED.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/Assets/PolygonPirates/Maps/Demonstration.umap'
+[2022.03.22-12.15.47:335][417]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 154
+[2022.03.22-12.15.48:778][417]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 144
+[2022.03.22-12.15.57:714][417]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/Demonstration_BuiltData9D42CD7E4F32959965E43DAC075D9E9A.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/Assets/PolygonPirates/Maps/Demonstration_BuiltData.uasset'
+[2022.03.22-12.15.57:968][417]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.22-12.15.57:968][417]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/PolygonPirates/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+[2022.03.22-12.15.57:968][417]LogContentValidation: Display: Validating World /Game/Assets/PolygonPirates/Maps/Demonstration.Demonstration
+[2022.03.22-12.16.01:659][495]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 134
+[2022.03.22-12.16.23:775][981]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 124
+[2022.03.22-12.16.27:958][103]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.22-12.16.28:032][103]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 114
+[2022.03.22-12.16.28:465][103]LogBlueprintEditor: Perf: 0.4 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.03.22-12.16.28:465][103]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2022.03.22-12.16.28:656][103]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0031 seconds. Added 126 classes and 0 folders.
+[2022.03.22-12.16.31:778][103]LogSlate: Took 0.002074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.22-12.16.32:340][104]LogSlate: Took 0.001424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.22-12.16.39:122][225]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 104
+[2022.03.22-12.16.57:346][592]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 94
+[2022.03.22-12.17.01:662][684]LogUObjectHash: Compacting FUObjectHashTables data took  10.80ms
+[2022.03.22-12.17.01:770][684]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2022.03.22-12.17.01:818][684]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.22-12.17.01:818][684]LightingResults: New page: Lighting Build
+[2022.03.22-12.17.01:818][684]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2022.03.22-12.17.01:879][684]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.03.22-12.17.01:881][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.17.01:882][684]MapCheck: New page: Map Check
+[2022.03.22-12.17.01:882][684]LightingResults: New page: Lighting Build
+[2022.03.22-12.17.01:922][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.22-12.17.02:057][684]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2022.03.22-12.17.02:088][684]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.03.22-12.17.02:113][684]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.22-12.17.02:113][684]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.22-12.17.02:161][684]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2022.03.22-12.17.02:171][684]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.22-12.17.02:171][684]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,358ms to complete.
+[2022.03.22-12.17.02:171][684]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.353
+[2022.03.22-12.17.04:258][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.22-12.17.08:545][849]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.22-12.17.08:584][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.22-12.17.08:585][849]PIE: New page: PIE session: FirstPersonExampleMap (22 mars 2022 à 14:17:08)
+[2022.03.22-12.17.08:596][849]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.22-12.17.08:602][849]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.22-12.17.08:604][849]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.22-12.17.08:647][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042381s)
+[2022.03.22-12.17.08:652][849]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.22-12.17.08:654][849]LogPlayLevel: PIE: World Init took: (0.006330s)
+[2022.03.22-12.17.08:655][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.051430s)
+[2022.03.22-12.17.08:702][849]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2022.03.22-12.17.08:709][849]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.22-12.17.08:710][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.22-12.17.08:710][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.22-12.17.08:710][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.22-12.17.08:710][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.22-12.17.08:710][849]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.22-12.17.08:710][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.22-12.17.08:710][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.22-12.17.08:710][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.22-12.17.08:712][849]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.22-12.17.08:712][849]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.22-12.17.08:732][849]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.22-12.17.08:732][849]LogAudioMixer: Display: 1: FrontRight
+[2022.03.22-12.17.08:773][849]LogAudioMixer: Display: Using Audio Device Haut-parleur (Synaptics Audio)
+[2022.03.22-12.17.08:774][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.22-12.17.08:774][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.22-12.17.08:774][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.22-12.17.08:776][849]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.22-12.17.08:776][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.22-12.17.08:776][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.22-12.17.08:831][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.22-12.17.08:831][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.22-12.17.08:831][849]LogInit: FAudioDevice initialized.
+[2022.03.22-12.17.08:831][849]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.03.22-12.17.08:880][849]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.22-12.17.08:900][849]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.03.22-13.17.08
+[2022.03.22-12.17.08:905][849]LogWorld: Bringing up level for play took: 0.011023
+[2022.03.22-12.17.08:907][849]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.03.22-12.17.08:941][849]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0030 seconds. Added 20 classes and 0 folders.
+[2022.03.22-12.17.08:949][849]PIE: Server logged in
+[2022.03.22-12.17.08:952][849]PIE: Play in editor total start time 0,385 seconds.
+[2022.03.22-12.17.10:006][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2022.03.22-12.17.12:974][933]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 74
+[2022.03.22-12.17.38:423][683]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2022.03.22-12.17.43:469][835]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2022.03.22-12.17.50:384][ 43]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2022.03.22-12.17.59:729][324]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2022.03.22-12.18.03:071][424]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2022.03.22-12.18.08:134][577]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2022.03.22-12.18.11:171][664]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.03.22-12.18.12:354][698]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2022.03.22-12.18.15:753][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.18.15:753][795]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.22-12.18.15:755][795]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.22-12.18.15:757][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.18.15:782][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.22-12.18.15:840][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.18.15:885][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.22-12.18.15:887][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-12.18.15:889][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-12.18.15:946][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.18.15:975][795]LogUObjectHash: Compacting FUObjectHashTables data took  12.19ms
+[2022.03.22-12.18.16:071][796]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.03.22-12.18.16:434][805]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.03.22-12.18.16:836][816]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2022.03.22-12.18.18:349][855]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.03.22-12.18.18:517][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.03.22-12.19.42:464][887]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.22-12.19.42:486][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.22-12.19.42:486][887]PIE: New page: PIE session: FirstPersonExampleMap (22 mars 2022 à 14:19:42)
+[2022.03.22-12.19.42:486][887]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.22-12.19.42:509][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022321s)
+[2022.03.22-12.19.42:511][887]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.22-12.19.42:512][887]LogPlayLevel: PIE: World Init took: (0.003498s)
+[2022.03.22-12.19.42:512][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.026289s)
+[2022.03.22-12.19.42:555][887]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2022.03.22-12.19.42:561][887]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.22-12.19.42:561][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.22-12.19.42:561][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.22-12.19.42:561][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.22-12.19.42:561][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.22-12.19.42:561][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.22-12.19.42:561][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.22-12.19.42:561][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.22-12.19.42:561][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.22-12.19.42:562][887]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.22-12.19.42:562][887]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.22-12.19.42:570][887]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.22-12.19.42:570][887]LogAudioMixer: Display: 1: FrontRight
+[2022.03.22-12.19.42:593][887]LogAudioMixer: Display: Using Audio Device Haut-parleur (Synaptics Audio)
+[2022.03.22-12.19.42:594][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.22-12.19.42:594][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.22-12.19.42:594][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.22-12.19.42:595][887]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.22-12.19.42:595][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.22-12.19.42:595][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.22-12.19.42:632][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.22-12.19.42:632][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.22-12.19.42:632][887]LogInit: FAudioDevice initialized.
+[2022.03.22-12.19.42:632][887]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.03.22-12.19.42:647][887]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.22-12.19.42:651][887]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.03.22-13.19.42
+[2022.03.22-12.19.42:652][887]LogWorld: Bringing up level for play took: 0.004078
+[2022.03.22-12.19.42:652][887]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.03.22-12.19.42:656][887]PIE: Server logged in
+[2022.03.22-12.19.42:658][887]PIE: Play in editor total start time 0,178 seconds.
+[2022.03.22-12.19.51:950][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.19.51:950][301]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.22-12.19.51:951][301]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.22-12.19.51:952][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.19.51:970][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.22-12.19.52:024][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.19.52:063][301]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.22-12.19.52:063][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-12.19.52:065][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-12.19.52:097][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.19.52:104][301]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2022.03.22-12.19.52:163][302]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.03.22-12.20.07:162][760]LogRenderer: Reallocating scene render targets to support 760x452 Format 10 NumSamples 1 (Frame:1).
+[2022.03.22-12.23.02:043][780]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/FirstPersonCharacterCB3A1C6F456826D6216E4FA10D3574D5.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.22-12.23.02:078][780]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.03.22-12.23.02:078][780]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.22-12.23.02:603][796]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.22-12.23.02:743][796]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.03.22-12.23.02:903][796]LogSlate: Took 0.000939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.22-12.23.07:930][947]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.22-12.23.07:948][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.22-12.23.07:948][947]PIE: New page: PIE session: FirstPersonExampleMap (22 mars 2022 à 14:23:07)
+[2022.03.22-12.23.07:948][947]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.22-12.23.07:967][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018787s)
+[2022.03.22-12.23.07:970][947]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.22-12.23.07:971][947]LogPlayLevel: PIE: World Init took: (0.003999s)
+[2022.03.22-12.23.07:971][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023155s)
+[2022.03.22-12.23.08:018][947]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2022.03.22-12.23.08:021][947]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.22-12.23.08:021][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.22-12.23.08:021][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.22-12.23.08:021][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.22-12.23.08:021][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.22-12.23.08:021][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.22-12.23.08:021][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.22-12.23.08:021][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.22-12.23.08:021][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.22-12.23.08:022][947]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.22-12.23.08:022][947]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.22-12.23.08:030][947]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.22-12.23.08:030][947]LogAudioMixer: Display: 1: FrontRight
+[2022.03.22-12.23.08:051][947]LogAudioMixer: Display: Using Audio Device Haut-parleur (Synaptics Audio)
+[2022.03.22-12.23.08:052][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.22-12.23.08:052][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.22-12.23.08:052][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.22-12.23.08:052][947]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.22-12.23.08:053][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.22-12.23.08:053][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.22-12.23.08:081][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.22-12.23.08:081][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.22-12.23.08:081][947]LogInit: FAudioDevice initialized.
+[2022.03.22-12.23.08:081][947]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2022.03.22-12.23.08:098][947]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.22-12.23.08:102][947]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.03.22-13.23.08
+[2022.03.22-12.23.08:102][947]LogWorld: Bringing up level for play took: 0.003030
+[2022.03.22-12.23.08:103][947]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.03.22-12.23.08:106][947]PIE: Server logged in
+[2022.03.22-12.23.08:107][947]PIE: Play in editor total start time 0,165 seconds.
+[2022.03.22-12.23.14:482][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.23.14:482][246]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.22-12.23.14:483][246]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.22-12.23.14:483][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.23.14:497][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.22-12.23.14:533][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.23.14:567][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.22-12.23.14:567][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-12.23.14:568][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-12.23.14:600][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.23.14:605][246]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.03.22-12.23.14:658][247]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.03.22-12.23.27:266][587]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/FirstPersonCharacter95731CDF411CCC8E197E55ADF901DBC1.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.22-12.23.27:294][587]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.03.22-12.23.27:294][587]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.22-12.23.28:718][623]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2022.03.22-12.23.28:764][623]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/FirstPersonExampleMapA7D8D48D40D0603DFD1EF59DA0449DD9.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.22-12.23.30:457][623]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/FirstPersonExampleMap_BuiltDataCE3E44A8443166FFDE093BBF10872DF0.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.22-12.23.30:504][623]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.22-12.23.30:504][623]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.22-12.23.30:504][623]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.22-12.23.43:797][995]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.22-12.23.43:936][995]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2022.03.22-12.23.48:884][145]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2022.03.22-12.23.48:924][145]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/FirstPersonExampleMapC1AAC3444C7D1D5013B050BF6F4479F6.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.22-12.23.50:225][145]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/FirstPersonExampleMap_BuiltData62E68F8B4D09B39481D4E587738C4B5C.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.22-12.23.50:264][145]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.22-12.23.50:264][145]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.22-12.23.50:265][145]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.22-12.23.52:027][210]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.22-12.23.52:043][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.22-12.23.52:043][210]PIE: New page: PIE session: FirstPersonExampleMap (22 mars 2022 à 14:23:52)
+[2022.03.22-12.23.52:043][210]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.22-12.23.52:064][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020992s)
+[2022.03.22-12.23.52:067][210]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.22-12.23.52:068][210]LogPlayLevel: PIE: World Init took: (0.002942s)
+[2022.03.22-12.23.52:068][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024338s)
+[2022.03.22-12.23.52:107][210]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2022.03.22-12.23.52:108][210]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.22-12.23.52:108][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.22-12.23.52:108][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.22-12.23.52:108][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.22-12.23.52:108][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.22-12.23.52:108][210]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.22-12.23.52:108][210]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.22-12.23.52:108][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.22-12.23.52:108][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.22-12.23.52:109][210]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.22-12.23.52:109][210]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.22-12.23.52:116][210]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.22-12.23.52:116][210]LogAudioMixer: Display: 1: FrontRight
+[2022.03.22-12.23.52:133][210]LogAudioMixer: Display: Using Audio Device Haut-parleur (Synaptics Audio)
+[2022.03.22-12.23.52:134][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.22-12.23.52:134][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.22-12.23.52:134][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.22-12.23.52:135][210]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.22-12.23.52:135][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.22-12.23.52:135][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.22-12.23.52:159][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.22-12.23.52:159][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.22-12.23.52:159][210]LogInit: FAudioDevice initialized.
+[2022.03.22-12.23.52:159][210]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2022.03.22-12.23.52:171][210]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.22-12.23.52:174][210]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.03.22-13.23.52
+[2022.03.22-12.23.52:175][210]LogWorld: Bringing up level for play took: 0.003106
+[2022.03.22-12.23.52:175][210]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.22-12.23.52:178][210]PIE: Server logged in
+[2022.03.22-12.23.52:179][210]PIE: Play in editor total start time 0,141 seconds.
+[2022.03.22-12.23.57:160][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.23.57:160][449]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.22-12.23.57:161][449]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.22-12.23.57:161][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.23.57:174][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.22-12.23.57:211][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.23.57:244][449]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.22-12.23.57:244][449]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-12.23.57:246][449]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-12.23.57:276][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.23.57:282][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.03.22-12.23.57:336][450]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.22-12.24.04:571][664]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/FirstPersonCharacterD5CD92084B857124A96B20A4881C90F1.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.22-12.24.04:595][664]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.03.22-12.24.04:595][664]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.22-12.25.34:554][210]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.22-12.25.34:687][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2022.03.22-12.28.21:195][702]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2022.03.22-12.29.27:622][425]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/FirstPersonCharacterE15DA86A46853E68BE9C5C82590C19E9.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.22-12.29.27:652][425]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.03.22-12.29.27:652][425]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.22-12.29.28:441][449]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.22-12.29.28:643][449]LogUObjectHash: Compacting FUObjectHashTables data took  10.48ms
+[2022.03.22-12.29.35:049][637]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.22-12.29.35:074][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.22-12.29.35:074][637]PIE: New page: PIE session: FirstPersonExampleMap (22 mars 2022 à 14:29:35)
+[2022.03.22-12.29.35:074][637]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.22-12.29.35:110][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035564s)
+[2022.03.22-12.29.35:113][637]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.22-12.29.35:113][637]LogPlayLevel: PIE: World Init took: (0.003330s)
+[2022.03.22-12.29.35:114][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.039361s)
+[2022.03.22-12.29.35:170][637]LogUObjectHash: Compacting FUObjectHashTables data took   8.29ms
+[2022.03.22-12.29.35:172][637]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.22-12.29.35:172][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.22-12.29.35:172][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.22-12.29.35:172][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.22-12.29.35:172][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.22-12.29.35:172][637]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.22-12.29.35:172][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.22-12.29.35:172][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.22-12.29.35:172][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.22-12.29.35:173][637]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.22-12.29.35:173][637]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.22-12.29.35:185][637]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.22-12.29.35:185][637]LogAudioMixer: Display: 1: FrontRight
+[2022.03.22-12.29.35:211][637]LogAudioMixer: Display: Using Audio Device Haut-parleur (Synaptics Audio)
+[2022.03.22-12.29.35:211][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.22-12.29.35:211][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.22-12.29.35:211][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.22-12.29.35:212][637]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.22-12.29.35:213][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.22-12.29.35:213][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.22-12.29.35:246][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.22-12.29.35:246][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.22-12.29.35:246][637]LogInit: FAudioDevice initialized.
+[2022.03.22-12.29.35:246][637]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2022.03.22-12.29.35:257][637]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.22-12.29.35:262][637]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.03.22-13.29.35
+[2022.03.22-12.29.35:262][637]LogWorld: Bringing up level for play took: 0.003971
+[2022.03.22-12.29.35:263][637]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.22-12.29.35:267][637]PIE: Server logged in
+[2022.03.22-12.29.35:268][637]PIE: Play in editor total start time 0,201 seconds.
+[2022.03.22-12.29.57:741][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.29.57:741][571]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.22-12.29.57:741][571]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.22-12.29.57:742][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.29.57:755][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.22-12.29.57:798][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.29.57:841][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.22-12.29.57:841][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-12.29.57:843][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-12.29.57:875][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.29.57:884][571]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2022.03.22-12.29.57:945][572]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.22-12.30.24:443][195]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/FirstPersonCharacter13FEEFCB428C0840D4D3A4A1D55617A5.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.22-12.30.24:474][195]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.03.22-12.30.24:475][195]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.22-12.30.26:426][252]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.22-12.30.26:567][252]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2022.03.22-12.30.30:712][380]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.22-12.30.30:734][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.22-12.30.30:734][380]PIE: New page: PIE session: FirstPersonExampleMap (22 mars 2022 à 14:30:30)
+[2022.03.22-12.30.30:734][380]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.22-12.30.30:760][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025494s)
+[2022.03.22-12.30.30:762][380]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.22-12.30.30:763][380]LogPlayLevel: PIE: World Init took: (0.002658s)
+[2022.03.22-12.30.30:763][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028528s)
+[2022.03.22-12.30.30:817][380]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2022.03.22-12.30.30:820][380]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.22-12.30.30:820][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.22-12.30.30:820][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.22-12.30.30:820][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.22-12.30.30:820][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.22-12.30.30:820][380]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.22-12.30.30:820][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.22-12.30.30:820][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.22-12.30.30:820][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.22-12.30.30:821][380]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.22-12.30.30:821][380]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.22-12.30.30:829][380]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.22-12.30.30:829][380]LogAudioMixer: Display: 1: FrontRight
+[2022.03.22-12.30.30:852][380]LogAudioMixer: Display: Using Audio Device Haut-parleur (Synaptics Audio)
+[2022.03.22-12.30.30:852][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.22-12.30.30:852][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.22-12.30.30:852][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.22-12.30.30:853][380]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.22-12.30.30:853][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.22-12.30.30:853][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.22-12.30.30:884][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.22-12.30.30:884][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.22-12.30.30:884][380]LogInit: FAudioDevice initialized.
+[2022.03.22-12.30.30:884][380]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2022.03.22-12.30.30:894][380]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.22-12.30.30:899][380]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.03.22-13.30.30
+[2022.03.22-12.30.30:900][380]LogWorld: Bringing up level for play took: 0.005108
+[2022.03.22-12.30.30:900][380]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.03.22-12.30.30:904][380]PIE: Server logged in
+[2022.03.22-12.30.30:906][380]PIE: Play in editor total start time 0,178 seconds.
+[2022.03.22-12.31.05:711][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.31.05:711][663]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.22-12.31.05:711][663]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.22-12.31.05:712][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.31.05:740][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.22-12.31.05:784][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.22-12.31.05:822][663]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.22-12.31.05:823][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-12.31.05:824][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-12.31.05:856][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.22-12.31.05:863][663]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2022.03.22-12.31.05:916][664]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.22-12.31.39:013][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2022.03.22-12.31.39:369][730]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.22-12.31.40:458][762]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2022.03.22-12.31.41:893][804]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2022.03.22-12.31.41:943][804]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/FirstPersonExampleMap081F27224C5A513528E52C8D30D07221.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.22-12.31.43:406][804]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Saved/FirstPersonExampleMap_BuiltData507CD8F14A22226109865E99717D23A6.tmp' to '../../../../../../Users/david/OneDrive/Documents/FAMILLE/EWEN/ESIEE/E4/S2/ProjetUnrealEngine/ProjectESIEE_BOUQUET/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.22-12.31.43:450][804]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.22-12.31.43:450][804]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.22-12.31.43:450][804]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
