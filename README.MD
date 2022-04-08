@@ -10,18 +10,18 @@ Ce jeu vidéo a été réalisé via le moteur de jeu `Unreal Engine`, dans le ca
 
 ### Descriptif 🦜
 
-Caribbean Defenders est un jeu de tower defense en 3D en vue première personne. Le personnage principal doit protéger sa ville face à des hordes de pirates, que ce soit à l'aide de tours où bien directement à l'aide de son arme.
+Caribbean Defenders est un jeu de tower defense en 3D en vue première personne. Le personnage principal doit survivre face à des hordes de pirates, que ce soit à l'aide de tours où bien directement à l'aide de son arme.
 
 ## Pour en savoir plus... 👀
 
 ### Combat de pirates 🤕
-L'objectif du jeu est de résister aux différentes attaques de pirates. Au début du jeu, le joueur n'a pas d'argent et doit les combattre avec son arme (en FPS). Attention cependant à ne pas s'approcher trop d'eux, où ils finiront par vous découper...
+L'objectif du jeu est de résister aux différentes attaques de pirates. Au début du jeu, le joueur n'a pas d'argent et doit les combattre avec son arme (en FPS). Par la suite, il pourra construire des canons, qui l'aideront à le protéger. Attention cependant à ne pas s'approcher trop des pirates, où ils finiront par vous découper...
 
 ### Système de monnaie 💰
-Cependant, lorsque certains pirates possèdent de l'argent sur eux. Ainsi, quand ils sont tués, le joueur peut les récupérer et ainsi collecter de la monnaie. 
+Cependant, lorsque certains pirates possèdent de l'argent sur eux. Ainsi, quand ils sont tués, le joueur peut les récupérer et ainsi collecter de la monnaie. Certains possèdent aussi des potions, qui une fois récupérées, restaureront une partie de votre vie.
 
 ### Construction de tours 🚧
-Cet argent permettra à l'utilisateur de construire des tours de défense, qui l'aideront par la suite à tuer les pirates, et donc à résister aux différentes hordes, qui seront de plus en plus plus volumineuses...
+Cet argent permettra à l'utilisateur de construire canons, qui l'aideront par la suite à tuer les pirates, et donc à résister aux différentes hordes, qui seront de plus en plus plus volumineuses...
 
 ## Les controles 🎮
 
@@ -35,21 +35,11 @@ Cet argent permettra à l'utilisateur de construire des tours de défense, qui l
 
 ### Tirs
 
-> Viser (clic droit) ;
-
 > Tirer (clic gauche) ;
 
 ### Tours
 
-> Construire une tour (déplacer la souris et appui sur ctrl)
-
-### Logique de jeu
-
-> Mettre le jeu sur pause (p) ;
-
-> Reprendre le jeu (p) ;
-
-> Recommencer le niveau (r) ;
+> Construire un canon (appui sur C)
 
 Merci pour votre attention 🤓
 
